@@ -8,10 +8,10 @@
  <img alt="" src="https://4k-soft.com/uploads/news/mm-cover.ZoRU4IdnM5kRDN68FxRXFpchKiLyLvKs.jpg">
 </picture>
 
-My name is Nigel Cokelek and I have been learning programming languages on and off throughout my college and university years, now I am currently working on
+My name is Nigel Cokelek and I have been learning programming languages on and off throughout my college and university years, more recently completed
 an online bootcamp with CoGrammar to learn the fundamental skills before becoming a software engineer.
 
-The programming language I will be focusing on will be Python and I am looking to not only complete this CoGrammar Software Engineering Bootcamp; but to also complete the Harvard CS50x Online Course. This will help propel me with a solid fundamental understanding of programming through the language of Python.
+The programming language I focused on was Python and I am still looking to do LeetCode problem solving and contribute to more projects with what I have learned. Gained a solid fundamental understanding of programming through the language of Python.
 
 Looking to boost my knowledge of programming each day and if there are any interesting projects to take on, I would be willing to have a go at what I can with
 the skills I have at the time. Would love to one day work in the gaming industry and have an impact to the creation of the game, also hopefully imparting my influence
